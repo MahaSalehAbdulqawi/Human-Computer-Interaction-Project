@@ -5,11 +5,8 @@ A Human-Computer Interaction (HCI) project focused on designing and evaluating a
 ## Project Overview
 
 This repository contains the design materials for the BAKECRAFT app prototype, including:
-
 - an interactive Figma-based prototype
 - a project PDF showing the application concept and design details
-- a summary README describing the project and its files
-
 The project is intended to demonstrate how thoughtful interface design can improve usability, accessibility, and user satisfaction in a food-ordering and browsing experience.
 
 ## Objective
@@ -44,11 +41,6 @@ This PDF contains the application materials for the HCI project, likely includin
 ### 3. README.md
 This file provides a project overview, purpose, and file descriptions for easier understanding of the repository.
 
-## How to View the Project
-
-- Open the `.mhtml` file to view the Figma prototype in a browser.
-- Open the PDF file to review the application documentation and design details.
-- Use this README as a quick summary of the project purpose and structure.
 
 ## Project Type
 
