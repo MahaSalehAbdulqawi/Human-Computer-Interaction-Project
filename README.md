@@ -1,6 +1,6 @@
 # BAKECRAFT APP
 
-BAKECRAFT is a Human-Computer Interaction (HCI) group project that introduces a bakery marketplace connecting customers with bakeries that offer personalized baking services. The app enables users to order customized baked goods tailored to their preferences through flexible personalization features and an intuitive mobile experience.
+Human-Computer Interaction (HCI) group project that introduces "BAKECRAFT" APP which is a bakery marketplace connecting customers with bakeries that offer personalized baking services. The app enables users to order customized baked goods tailored to their preferences through flexible personalization features and an intuitive mobile experience.
 
 ## Project Overview
 
