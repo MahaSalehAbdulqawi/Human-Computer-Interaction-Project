@@ -1,6 +1,6 @@
 # BAKECRAFT
 
-BAKECRAFT is a Human-Computer Interaction (HCI) project focused on designing a distinctive bakery mobile application that offers a modern and convenient way to buy baked goods online. The concept goes beyond a simple food-ordering app by emphasizing personalization, product discovery, and a smooth user experience for customers who want freshly made bakery items in a more engaging and memorable way.
+BAKECRAFT is a Human-Computer Interaction (HCI) group project focused on designing a distinctive bakery mobile application that offers a modern and convenient way to buy baked goods online. The concept goes beyond a simple food-ordering app by emphasizing personalization, product discovery, and a smooth user experience for customers who want freshly made bakery items in a more engaging and memorable way.
 
 ## Project Overview
 
